@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: pink;
+}
+.btn-click{
+    padding: 10px 10px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    gap: 20px;
+}
